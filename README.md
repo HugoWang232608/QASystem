@@ -1,6 +1,6 @@
 # 医药问答系统
 
-本项目是一个基于python和neo4j图数据库的医药类知识图谱问答系统。
+本项目是一个基于python和neo4j图数据库的医药类知识图谱问答系统。fork自https://github.com/liuhuanyong/QASystemOnMedicalKG
 
 ## 运行环境说明
 本项目在以下环境中进行过测试：
